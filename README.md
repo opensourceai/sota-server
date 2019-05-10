@@ -72,6 +72,6 @@ http://127.0.0.1:8000/api?keyword=language+model&num_results=10
 ```
 ![example_2](example_2.png)
 
-## Thank
+## Acknowledgment
 
 https://github.com/chiphuyen/sotawhat
