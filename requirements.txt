@@ -1,0 +1,4 @@
+django
+nltk
+six
+pyspellchecker
